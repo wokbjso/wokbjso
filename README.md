@@ -50,8 +50,12 @@
    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
    <img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=NodeDotJs&logoColor=white"/>
    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
+   </br>
    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
-
+   <img src="https://img.shields.io/badge/NextJS-000000?style=flat&logo=NextJS&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white"/>
+   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 </br></br>
    [![brian990614](http://mazassumnida.wtf/api/v2/generate_badge?boj=brian990614)](https://solved.ac/brian990614)
 </div>
