@@ -58,7 +58,5 @@
    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white"/>
    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 </br></br>
-![Hyeonmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wokbjso&show_icons=true&theme=radical)
-</br></br>
    [![brian990614](http://mazassumnida.wtf/api/v2/generate_badge?boj=brian990614)](https://solved.ac/brian990614)
 </div>
