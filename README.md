@@ -39,7 +39,7 @@
    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Styled-Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
    </br>
    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
