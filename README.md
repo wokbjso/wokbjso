@@ -41,6 +41,7 @@
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/Styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
    </br>
+   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
