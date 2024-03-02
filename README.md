@@ -22,7 +22,7 @@
 <div>2018.03 ~ 2019.12 : 홍익대학교 개발학회 P.C.R.C 부원</div>
 <div>2023.03 ~ : 홍익대학교 멋쟁이 사자처럼 11기 프론트엔드 운영진</div>
 <div>2023.05 ~ : 프로젝트 고민의 참견 v.1.0.0 배포 ✅<a href='https://gomin.zone/'>gomin.zone</a></div>
-<div>2023.08 ~ 2023.09 : <a href="https://github.com/HongikUnivFestival/client-with-react-pwa/tree/release" style={{text-decoration:none}}>홍익대학교 축제사이트 제작(프론트)</a></div>
+<div>2023.08 ~ 2023.09 : <a href="https://github.com/HongikUnivFestival/client-with-react-pwa/tree/release" style={{text-decoration-line:none}}>홍익대학교 축제사이트 제작(프론트)</a></div>
 <div>2023.09 ~ 2023.12 : 구름(goorm)톤 1기 운영진</div>
 <div>2023.06 ~ 2023.12 : (주)헬퍼 로보틱스 관제 시스템 및 웹 개발 인턴</div>
 <div>2023.09 ~ 2024.02 : 신촌 연합 IT 창업 동아리 CEOS 18기 프론트</div>
