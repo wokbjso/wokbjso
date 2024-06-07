@@ -67,8 +67,8 @@
    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white"/>
    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 </br></br>
-   [![brian990614](http://mazassumnida.wtf/api/v2/generate_badge?boj=brian990614)](https://solved.ac/brian990614)
-   [![Hyeonmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wokbjso)](https://github.com/wokbjso/github-readme-stats)
+<div>[![brian990614](http://mazassumnida.wtf/api/v2/generate_badge?boj=brian990614)](https://solved.ac/brian990614)</div>
+   <div>[![Hyeonmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wokbjso)](https://github.com/wokbjso/github-readme-stats)</div>
 </div>
 
 
