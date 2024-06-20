@@ -55,7 +55,7 @@
    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
-   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAws&logoColor=white"/>
+   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
    </br>
    <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>
    <img src="https://img.shields.io/badge/yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white"/>
