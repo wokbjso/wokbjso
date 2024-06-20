@@ -45,7 +45,7 @@
    <img src="https://img.shields.io/badge/NextJS-000000?style=flat&logo=NextJS&logoColor=white"/>
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/Styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Panda CSS-F3DF49?style=flat-square&logo=foodpanda&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Panda CSS-F3DF49?style=flat-square&logo=foodpanda&logoColor=black"/>
    </br>
    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
    <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
