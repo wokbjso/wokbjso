@@ -56,7 +56,8 @@
    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAws&logoColor=white"/>
    </br>
-   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white"/>
+   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>
+   <img src="https://img.shields.io/badge/yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white"/>
    <img src="https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white"/>
 
 💡Used at least Once
