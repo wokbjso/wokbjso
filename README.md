@@ -21,13 +21,13 @@
 |기간|내용|기타|
 |------|---|------|
 |  2023.03 ~  |  홍익대학교 멋쟁이 사자처럼 11기 프론트엔드 운영진  |
-|  2023.05 ~  |  프로젝트 고민의 참견 v.1.0.0  | <br /><a href="https://github.com/go-cham/gocham-frontend"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
-|  2023.08 ~  2023.09 |  홍익대학교 축제사이트 제작(프론트)홍익대학교 축제사이트 제작(프론트)  | <br /><a href="https://github.com/HongikUnivFestival/client-with-react-pwa/tree/release" style="text-decoration: none"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
+|  2023.05 ~  |  프로젝트 고민의 참견 v.1.0.0  | <a href="https://github.com/go-cham/gocham-frontend"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
+|  2023.08 ~  2023.09 |  홍익대학교 축제사이트 제작(프론트)홍익대학교 축제사이트 제작(프론트)  | <a href="https://github.com/HongikUnivFestival/client-with-react-pwa/tree/release" style="text-decoration: none"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
 |  2023.09 ~ 2023.12  |  구름(goorm)톤 1기 운영진  |
 |  2023.06 ~ 2023.12  |  (주)헬퍼 로보틱스 관제 시스템 및 웹 개발 인턴  |
 |  2023.09 ~ 2024.02  |  신촌 연합 IT 창업 동아리 CEOS 18기 프론트  |
 |  2024.03 ~  |  신촌 연합 IT 창업 동아리 CEOS 19기 프론트 멘토  |
-|  2024.01 ~  |  프로젝트 로컬무드 v.1.0.0 배포  |  <a href='https://localmood.co.kr/'>✅배포 링크</a> <br /><br /> <a href="https://github.com/local-mood/LocalMood-Front"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
+|  2024.01 ~  |  프로젝트 로컬무드 v.1.0.0 배포  |  <a href='https://localmood.co.kr/'>✅배포 링크</a> <br /> <a href="https://github.com/local-mood/LocalMood-Front"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
 |  2024.06 ~  |  디프만(Depromeet) Web 파트 15기  |
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
