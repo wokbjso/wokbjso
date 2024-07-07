@@ -9,9 +9,7 @@
 
 <div>📞 010-9484-7072</div>
 <div>💌  brian990614@naver.com</div>
-<div><span>Instagram</span> @hyeonmin_0614</div>
-<div><span>Blog</span> https://doyourbestcode.tistory.com/</div>
-<div><span>Portfolio</span> <a href="https://sweltering-spy-bfa.notion.site/Portfolio-78f57c9ab4cd4604a0323f13151baf81?pvs=4">김현민의 포트폴리오<a/></div>
+<div><span>📌</span> <a href="https://sweltering-spy-bfa.notion.site/Portfolio-78f57c9ab4cd4604a0323f13151baf81?pvs=4">김현민의 포트폴리오<a/></div>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
