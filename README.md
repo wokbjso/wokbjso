@@ -9,8 +9,8 @@
 
 <div>📞 010-9484-7072</div>
 <div>💌  brian990614@naver.com</div>
-<div><span>📝</span> <a href="https://doyourbestcode.tistory.com">기술 블로그<a/></div>
-<div><span>📌</span> <a href="https://sweltering-spy-bfa.notion.site/Portfolio-78f57c9ab4cd4604a0323f13151baf81?pvs=4">포트폴리오<a/></div>
+<div><span>📝</span> <a href="https://doyourbestcode.tistory.com">Tech Blog<a/></div>
+<div><span>📌</span> <a href="https://sweltering-spy-bfa.notion.site/Portfolio-78f57c9ab4cd4604a0323f13151baf81?pvs=4">Portfolio<a/></div>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
