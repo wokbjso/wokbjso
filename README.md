@@ -21,7 +21,7 @@
 |기간|내용|기타|
 |------|---|------|
 |  2023.03 ~  |  홍익대학교 멋쟁이 사자처럼 11기 프론트엔드 운영진  |
-|  2023.05 ~  |  프로젝트 고민의 참견 v.1.0.0  | <a href="https://github.com/go-cham/gocham-frontend">Github</a>
+|  2023.05 ~  |  프로젝트 고민의 참견 v.1.0.0  | <a href="https://github.com/go-cham/gocham-frontend"><img src="[이미지_URL](https://www.google.com/imgres?q=github&imgurl=https%3A%2F%2Fwww.webfx.com%2Fwp-content%2Fuploads%2F2022%2F08%2Fgithub-logo.png&imgrefurl=https%3A%2F%2Fwww.webfx.com%2Fblog%2Fmarketing%2Fwhat-is-github%2F&docid=8bmn8IWx5BE26M&tbnid=OykTgE0lCGVs6M&vet=12ahUKEwiN6IrInpSHAxV0s1YBHd-fBrYQM3oECBUQAA..i&w=585&h=368&hcb=2&ved=2ahUKEwiN6IrInpSHAxV0s1YBHd-fBrYQM3oECBUQAA)" alt="Github 링" style="width:100px;height:auto;"></a>
 |  2023.08 ~  2023.09 |  홍익대학교 축제사이트 제작(프론트)홍익대학교 축제사이트 제작(프론트)  | <a href="https://github.com/HongikUnivFestival/client-with-react-pwa/tree/release" style="text-decoration: none">Github</a>
 |  2023.09 ~ 2023.12  |  구름(goorm)톤 1기 운영진  |
 |  2023.06 ~ 2023.12  |  (주)헬퍼 로보틱스 관제 시스템 및 웹 개발 인턴  |
