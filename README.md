@@ -1,3 +1,4 @@
+<h4>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0055FF&height=300&section=header&text=Welcome&fontSize=90&desc=Hyeonmin's%20Github%20Profile&animation=fadeIn&descAlign=65&descAlignY=65&stroke=ffffff" />
 
@@ -7,12 +8,10 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h4 align=center>
 <div>📞 010-9484-7072</div>
 <div>💌  brian990614@naver.com</div>
 <div><span>📝</span> <a href="https://doyourbestcode.tistory.com">Tech Blog<a/></div>
 <div><span>📌</span> <a href="https://sweltering-spy-bfa.notion.site/Portfolio-78f57c9ab4cd4604a0323f13151baf81?pvs=4">Portfolio<a/></div>
-</h4>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -37,7 +36,7 @@
 |  2023.06 ~ 2023.12  |  (주)헬퍼 로보틱스 관제 시스템 및 웹 개발 인턴  |
 |  2023.09 ~ 2024.02  |  신촌 연합 IT 창업 동아리 CEOS 18기 프론트  |
 |  2024.03 ~  |  신촌 연합 IT 창업 동아리 CEOS 19기 프론트 멘토  |
-|  2024.01 ~  |  <h4><a href='https://localmood.co.kr/'>로컬무드 v.1.0.0</h4>  | <a href="https://github.com/local-mood/LocalMood-Front"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
+|  2024.01 ~  |  <a href='https://localmood.co.kr/'>로컬무드 v.1.0.0  | <a href="https://github.com/local-mood/LocalMood-Front"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
 |  2024.06 ~  |  디프만(Depromeet) Web 파트 15기  |
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -100,5 +99,5 @@
 </br></br>
   [![Hyeonmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wokbjso)](https://github.com/wokbjso/github-readme-stats)
 </div>
-
+</h4>
 
