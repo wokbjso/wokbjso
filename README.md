@@ -32,10 +32,10 @@
 |  2023.03 ~ 2023.12 |  홍익대학교 멋쟁이 사자처럼 11기 프론트엔드 운영진  |
 |  2023.05 ~ 2023.11  |  프로젝트 고민의 참견 v.1.0.0  | <a href="https://github.com/go-cham/gocham-frontend"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
 |  2023.08 ~  2023.09 |  홍익대학교 축제사이트 제작(프론트)홍익대학교 축제사이트 제작(프론트)  | <a href="https://github.com/HongikUnivFestival/client-with-react-pwa/tree/release"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" /></a>
-|  2023.09 ~ 2024.02  |  신촌 연합 IT 창업 동아리 CEOS 18기 프론트  |
+|  2023.09 ~ 2024.02  |  신촌 연합 IT 창업 동아리 <a href='https://ceos-sinchon.com/'>CEOS</a> 18기 프론트  |
 |  2024.03 ~  |  신촌 연합 IT 창업 동아리 <a href='https://ceos-sinchon.com/'>CEOS</a> 19기 프론트 멘토  |
 |  2024.01 ~  |  <a href='https://localmood.co.kr/'>로컬무드 v.1.0.0  | <a href="https://github.com/local-mood/LocalMood-Front"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
-|  2024.06 ~  |  디프만(Depromeet) Web 파트 15기  |
+|  2024.06 ~  |  <a href='https://www.depromeet.com/'>디프만(Depromeet)</a> Web 파트 15기  |
 |  2024.07 ~  |  <a href='https://swimie.life/'>Swimie v.1.0.0  | <a href="https://github.com/depromeet/15th-Team2-Web"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
